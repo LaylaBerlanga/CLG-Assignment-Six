@@ -1,0 +1,38 @@
+
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #edf2f4
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Oswald', sans-serif;
+    position: absolute; top: 0; right: 30px
+}
+
+#MainSection {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+height: 200px;
+width: 400px;
+    
+ }
+
+.testtext {
+    font-size: 50pt;
+    position: relative;
+    left: 300px;
+    color: #ef233c;
+    font-style: bold;
+   
+}
+
+.info {
+    display: flex;
+    justify-content: space-around;
+  
+}
+
